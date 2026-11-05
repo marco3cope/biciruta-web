@@ -19,3 +19,7 @@ biciruta-web/
 1. Abre la carpeta en VS Code.
 2. Instala la extensión Live Server.
 3. Clic derecho sobre `index.html` → Open with Live Server.
+
+## Novedades
+
+Próximamente: sección de ofertas.
