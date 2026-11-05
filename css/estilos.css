@@ -31,3 +31,9 @@ nav ul.abierto {
 .oferta {
   color: #b3261e;
 }
+.ofertas {
+  background: #fff3e0;
+  margin: 10px;
+  padding: 15px;
+  border-left: 5px solid #b3261e;
+}
