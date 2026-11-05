@@ -22,4 +22,4 @@ biciruta-web/
 
 ## Novedades
 
-Próximamente: sección de ofertas.
+Próximamente: sección de ofertas
